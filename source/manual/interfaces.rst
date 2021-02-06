@@ -152,7 +152,9 @@ Tested devices by the OPNsense team include:
 
 * **Huawei ME909u-521** (device cuaUx.0)
 * **Huawei E220** (device cuaUx.0)
+* **Huaweu M909S-120** (device cuaUx.0) (Requires separate SIM card holder/adapter) [Tested: OPNsense 21.1]
 * **Sierra Wireless MC7304** (device cuaUx.2) [as of OPNsense 16.7]
+
 
 .. Note::
 
